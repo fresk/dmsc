@@ -2,6 +2,8 @@
 .AppleDouble
 .LSOverride
 
+*.swp
+
 # Icon must ends with two \r.
 Icon
 
